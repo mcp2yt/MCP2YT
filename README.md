@@ -8,7 +8,6 @@
    <img src="./contrib-heatmap.svg" width="860" alt="MCP2YT's GitHub contribution graph — auto-refreshed daily" />
    <br>
    <br>
-   
    <h3><code>mcp2yt@github ~ $ whoami</code></h3>
    <table>
       <tr>
@@ -21,7 +20,7 @@
    <h3><code>mcp2yt@github ~ $ ./links.sh</code></h3>
    <p><b>Backend Developer · Building Node.js & C++ · Computer Science Student</b></p>
 
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul-rehman8330?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-rehman8330)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul-rehman8330?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman8330)
    [![Instagram](https://img.shields.io/badge/Instagram-mianrehman5397?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mianrehman5397)
 
    <br>
